@@ -5,5 +5,10 @@ Currently has one program, to make an animation of the Southern Hemisphere Strat
 
 If you have any questions or comments, please contact me at: Mathew_Barlow@uml.edu
 
-Sample image:
-<img src="hoo0000.png">
+Sample frame:
+
+<img src="hoo0000.png" width="322" height="383">
+
+animation:
+
+<img src="spv_sh.gif" width="322" height="383">
