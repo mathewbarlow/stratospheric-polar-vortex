@@ -122,4 +122,3 @@ while it < nt:
         pass
 
     it += 1
-
