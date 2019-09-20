@@ -15,6 +15,6 @@ animation:
 
 Acknowledgements
 
-Support from NSF AGS-1623912 and NSF AGS-1657921 is gratefully acknowledged.
+Support from NSF AGS-1657921 is gratefully acknowledged.
 
 
